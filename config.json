@@ -1,1 +1,7 @@
 
+{
+    "guildId":"Server-ID hier einfügen",
+    "channelId":"ID des Kanals in dem Nachrichten gelöscht werden hier einfügen",
+    "token":"Deinen bot-Token hier einfügen",
+    "delay":45000
+}
